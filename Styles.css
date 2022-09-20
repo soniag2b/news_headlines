@@ -1,0 +1,60 @@
+html{
+	background-color: black;
+}
+
+img{
+	
+}
+
+h1{
+	font-family: Roboto, sans-serif;
+	font-size: 20px;
+	color: #0000FF;
+	font-weight: bold;
+	background-color: papayawhip;
+}
+li {
+		font-size:  14px;
+		color: red;
+}
+
+body{
+	margin-right: 10%;
+    margin-left: 10%;
+}
+
+div{
+	background-color: papayawhip;
+}
+
+/*this is the ID headerimage*/
+#headerimage{
+	margin-left:  auto;
+	margin-right:  auto;
+	display:  block;
+}
+
+/*this is how to call a class */
+.magenta{
+	color: magenta;
+}
+
+a{
+	/*desert orange*/
+	color:#AA600F;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: lightgreen;
+}
+
+[src='QueenElizabeth.jpeg']{
+	margin-left:  auto;
+	margin-right:  auto;
+	display:  block;
+}
+
+
